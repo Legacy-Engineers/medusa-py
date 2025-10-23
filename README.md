@@ -1,1 +1,1 @@
-# Medusa Python SDK
+# Medusa Python Client
